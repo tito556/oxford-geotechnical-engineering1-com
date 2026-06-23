@@ -1,0 +1,46 @@
+# Geotechnical Engineering1 — Oxford
+
+> Geotechnical engineering services in Oxford, United Kingdom.
+
+## Services
+- [Anchors](https://oxford.geotechnical-engineering1.com/anchors/)
+- [Atterberg Limits](https://oxford.geotechnical-engineering1.com/atterberg-limits/)
+- [Cbr Road](https://oxford.geotechnical-engineering1.com/cbr-road/)
+- [Cpt Test](https://oxford.geotechnical-engineering1.com/cpt-test/)
+- [Excavation Monitoring](https://oxford.geotechnical-engineering1.com/excavation-monitoring/)
+- [Excavations](https://oxford.geotechnical-engineering1.com/excavations/)
+- [Flexible Pavement](https://oxford.geotechnical-engineering1.com/flexible-pavement/)
+- [Footings](https://oxford.geotechnical-engineering1.com/footings/)
+- [Foundations](https://oxford.geotechnical-engineering1.com/foundations/)
+- [Geophysics](https://oxford.geotechnical-engineering1.com/geophysics/)
+- [Grain Size](https://oxford.geotechnical-engineering1.com/grain-size/)
+- [Ground Improvement](https://oxford.geotechnical-engineering1.com/ground-improvement/)
+- [In Situ Permeability](https://oxford.geotechnical-engineering1.com/in-situ-permeability/)
+- [Investigation](https://oxford.geotechnical-engineering1.com/investigation/)
+- [Lab In Situ](https://oxford.geotechnical-engineering1.com/lab-in-situ/)
+- [Laboratory](https://oxford.geotechnical-engineering1.com/laboratory/)
+- [Liquefaction](https://oxford.geotechnical-engineering1.com/liquefaction/)
+- [Masw](https://oxford.geotechnical-engineering1.com/masw/)
+- [Piles](https://oxford.geotechnical-engineering1.com/piles/)
+- [Plate Load Test](https://oxford.geotechnical-engineering1.com/plate-load-test/)
+- [Resistivity](https://oxford.geotechnical-engineering1.com/resistivity/)
+- [Retaining Walls](https://oxford.geotechnical-engineering1.com/retaining-walls/)
+- [Rigid Pavement](https://oxford.geotechnical-engineering1.com/rigid-pavement/)
+- [Road Geotechnics](https://oxford.geotechnical-engineering1.com/road-geotechnics/)
+- [Seismic](https://oxford.geotechnical-engineering1.com/seismic/)
+- [Seismic Isolation](https://oxford.geotechnical-engineering1.com/seismic-isolation/)
+- [Seismic Microzonation](https://oxford.geotechnical-engineering1.com/seismic-microzonation/)
+- [Seismic Refraction](https://oxford.geotechnical-engineering1.com/seismic-refraction/)
+- [Slope Stability](https://oxford.geotechnical-engineering1.com/slope-stability/)
+- [Slopes](https://oxford.geotechnical-engineering1.com/slopes/)
+- [Soft Ground Tunnels](https://oxford.geotechnical-engineering1.com/soft-ground-tunnels/)
+- [Spt Drilling](https://oxford.geotechnical-engineering1.com/spt-drilling/)
+- [Stone Columns](https://oxford.geotechnical-engineering1.com/stone-columns/)
+- [Vibrocompaction](https://oxford.geotechnical-engineering1.com/vibrocompaction/)
+
+## Contact
+- Website: https://oxford.geotechnical-engineering1.com/
+
+## About
+This site provides geotechnical engineering services in Oxford, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
